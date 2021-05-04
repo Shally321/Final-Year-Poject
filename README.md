@@ -2,7 +2,7 @@
 3rd year Empirical Investigation
 
 # Description
-Exploring the use of Supervised Machine Learning models for predicting stock price movement. Trading over an emerging (MSCI EM) stock market index using the EEM dataset, and an established (S&P500) stock market index using the SPY dataset, across two financial crises (Global Financial Crisis (2008) & Covid-19 Pandemic (2020)). Measuring the predictive accuracy and cumulative return performance before and during the crises. 
+Exploring the use of Supervised Machine Learning models for predicting stock price movement. Trading over an emerging (MSCI EM) stock market index using the EEM dataset, and an established (S&P500) stock market index using the SPY dataset, across two financial crises - Global Financial Crisis (2008) & Covid-19 Pandemic (2020). Measuring the predictive accuracy and cumulative return performance before and during the crises. 
 
 # Running the program
 Within Algo.py, select the task you want to perform by setting the control number (on line 394):
