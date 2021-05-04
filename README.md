@@ -6,6 +6,7 @@ Exploring the use of Supervised Machine Learning models for predicting stock pri
 
 # General Approach 
 
+![Trading_algo_flowchart](/uploads/026f51531e3b75197e81930a86d343b0/Trading_algo_flowchart.png)
 
 # Running the program
 Within Algo.py, select the task you want to perform by setting the control number (on line 394):
