@@ -4,10 +4,6 @@
 # Description
 Exploring the use of Supervised Machine Learning models for predicting stock price movement. Trading over an emerging (MSCI EM) stock market index using the EEM dataset, and an established (S&P500) stock market index using the SPY dataset, across two financial crises (Global Financial Crisis (2008) & Covid-19 Pandemic (2020)). Measuring the predictive accuracy and cumulative return performance before and during the crises. 
 
-# General Approach 
-
-![Trading_algo_flowchart](/uploads/026f51531e3b75197e81930a86d343b0/Trading_algo_flowchart.png)
-
 # Running the program
 Within Algo.py, select the task you want to perform by setting the control number (on line 394):
 1. for cross validation
@@ -17,6 +13,10 @@ Within Algo.py, select the task you want to perform by setting the control numbe
 
 - Select the market to train/test on by commenting out the mareket you don't want (on line 399/400)
 - If control = 4, to change the length of the trading window, define the months to trade on line 437
+
+# General Approach 
+
+![Trading_algo_flowchart](/uploads/026f51531e3b75197e81930a86d343b0/Trading_algo_flowchart.png)
 
 # Programming Environment
 - Python version 3.5 was used for the development of the software. 
